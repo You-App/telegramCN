@@ -205,7 +205,7 @@
     "report_reason_modal_other": "其他",
     "report_reason_modal_other_placeholder": "说明",
     "report_reason_modal_submit_btn": "发送",
-    "clipboard_copied": "已复制！",
+    "clipboard_copied": "已复制",
     "clipboard_press_ctrl_c": "Press Ctrl+C to copy",
     "clipboard_press_cmd_c": "Press ⌘+C to copy",
     "confirm_modal_logout": "Вы действительно хотите выйти?",
