@@ -9,7 +9,7 @@
 	"modal_done": "完成",
 
 	"group_modal_info": "Group info",
-	"group_modal_pluralize_participants": "{'0': 'No members', 'one': '1 member', 'other': '{} members'}",
+	"group_modal_pluralize_participants": "{'0': '没有成员', 'one': '1个成员', 'other': '{} 成员'}",
 	"group_modal_pluralize_online_participants": "{'one': '1 online', 'other': '{} online'}",
 	"group_modal_pluralize_subscribers": "{'0': 'No subscribers', 'one': '1 subscriber', 'other': '{} subscribers'}",
 	"group_modal_participants": "{total}, {online}",
@@ -491,9 +491,9 @@
 	"head_one_typing": "{name1} is typing{dots}",
 	"head_two_typing": "{name1}, {name2}{dots}",
 	"head_many_typing": "{name1}+{names}{dots}",
-	"head_waiting_for_network": "Waiting for network",
-	"head_retry": "Retry",
-	"head_connecting": "Connecting",
+	"head_waiting_for_network": "等待网络",
+	"head_retry": "正在重试",
+	"head_connecting": "连接中",
 
 	"footer_twitter": "Twitter",
 	
