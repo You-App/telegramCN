@@ -166,7 +166,7 @@
 	"error_browser_no_local_file_system_video_md": "Your browser doesn't support {moz-link: https://developer.mozilla.org/en-US/docs/Web/API/LocalFileSystem | LocalFileSystem} feature which is needed to play this video.\nPlease, install {chrome-link: http://google.com/chrome | Google Chrome} or use {telegram-link: https://telegram.org/ | mobile app} instead.",
 	"error_video_download_failed": "Video download failed",
 
-	"unread_messages_split": "Unread messages",
+	"unread_messages_split": "未读消息",
 
 	"user_name_deleted": "DELETED",
 	"user_first_name_deleted": "DELETED",
@@ -608,7 +608,7 @@
 	"login_checking_password": "检查",
 	"login_recovery_title": "忘记密码？",
 	"login_code_placeholder": "国家码",
-	"login_code_incorrect": "Incorrect code",
+	"login_code_incorrect": "不正确的密码",
 	"login_recovery_description_md": "We have sent a recovery code to the e-mail you provided:\n\n{email}\n\nPlease check your e-mail and enter the 6-digit code we have sent here.",
 
 	"password_recover_active": "正在检查...",
@@ -618,10 +618,10 @@
 	"login_controller_unknown_country": "未知",
 
 	"message_forwarded_message": "转发的消息",
-	"message_via_bot": "via {bot}",
-	"message_edited": "edited",
-	"message_forwarded_message_mobile": "Forwarded from {from}",
-	"message_forwarded_via_message_mobile": "Forwarded from {from} via {bot}",
+	"message_via_bot": "通过 {bot}",
+	"message_edited": "已编辑",
+	"message_forwarded_message_mobile": "回复 {from}",
+	"message_forwarded_via_message_mobile": "回复 {from} 通过 {bot}",
 
 	"message_attach_audio_message": "语音信息",
 	" message_attach_audio_play": "播放",
@@ -639,11 +639,11 @@
 	"message_attach_unsupported_desktop": "This message is currently not supported on Telegram Web. Try {link}.",
 	"message_attach_notweb": "The message is not supported on Telegram Web yet. Use Telegram mobile apps to view: {link}.",
 
-	"conversation_select_modal_title": "Select conversation",
-	"conversation_select_modal_chats_contacts": "Chats and contacts",
+	"conversation_select_modal_title": "选择对话",
+	"conversation_select_modal_chats_contacts": "聊天和联系人",
 	"conversation_one_selected": "{name1}",
-	"conversation_two_selected": "{name1} and {name2}",
-	"conversation_many_selected": "{name1}, {name2} and {count} more",
+	"conversation_two_selected": "{name1} 和 {name2}",
+	"conversation_many_selected": "{name1}, {name2} 和 {count} 等",
 
 	"phonebook_modal_title": "电话簿",
 	"phonebook_modal_deselect_all": "取消选择所有",
